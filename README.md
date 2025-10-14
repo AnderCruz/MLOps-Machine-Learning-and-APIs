@@ -1,10 +1,10 @@
-# ⚙️ MLOps: Machine Learning and APIs
+# MLOps: Machine Learning and APIs
 
 This project demonstrates how to **serve machine learning models via APIs** using **Flask**. It is part of an introduction to **MLOps** practices, covering model deployment, dependency management, and API development.
 
 Developed by **Nowa Analytics**, a consultancy specialized in advanced data analytics, AI, and MLOps solutions.
 
----
+
 
 ## 📌 Project Overview
 
@@ -16,7 +16,7 @@ The project showcases:
 * ✅ How to serialize and load models with **Pickle**
 * ✅ How to manage dependencies and ensure reproducibility
 
----
+
 
 ## ⚙️ Features
 
@@ -69,7 +69,7 @@ This API provides two main functionalities:
    }
    ```
 
----
+
 
 ## 📁 Project Structure
 
@@ -94,7 +94,7 @@ This API provides two main functionalities:
 * **TextBlob** → Sentiment analysis
 * **Deep Translator** → Language translation
 
----
+
 
 ## 🔐 Authentication
 
@@ -105,7 +105,7 @@ This API is protected with **Basic Authentication**.
 
 (You can update these credentials in `main_model.py`).
 
----
+
 
 ## ✅ Results
 
@@ -114,7 +114,7 @@ This API is protected with **Basic Authentication**.
 * Implemented a **house price prediction service**
 * Applied **MLOps best practices**: model serialization, dependency control, and service deployment
 
----
+
 
 ## 🏢 About Nowa Analytics
 
@@ -123,7 +123,7 @@ This API is protected with **Basic Authentication**.
 📍 São Paulo, Madrid, and London
 🌐 [nowaanalytics.com](http://nowaanalytics.com) *(replace with real link if available)*
 
----
+
 
 ## 📬 Contact
 
